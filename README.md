@@ -2,7 +2,7 @@
 
 REST API for a system that assigns students to classes
 
-#Frameworks:
+# Frameworks:
 - Web Services:
 - Springboot 2.9.2
 - Swagger2 for Springboot
@@ -15,17 +15,17 @@ REST API for a system that assigns students to classes
 - Logging
 - Springboot Log4J2
 
-#Conventions and Standards:
+# Conventions and Standards:
 - JAX-RS
 - RESTful standards
 
-#Persistence:
+# Persistence:
 - In memory structures as database mock
 
-#Security:
+# Security:
 - None
 
-#Design Patterns:
+# Design Patterns:
 - Factory Design Pattern implemented by Springboot
 - Singleton Design Pattern implemented by Springboot
 - Model View Controller (MVC) implemented by Springboot
