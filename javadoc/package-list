@@ -1,0 +1,7 @@
+com.truextend.problem1
+com.truextend.problem1.controller
+com.truextend.problem1.dao
+com.truextend.problem1.entity
+com.truextend.problem1.exception
+com.truextend.problem1.service
+com.truextend.problem1.utils
