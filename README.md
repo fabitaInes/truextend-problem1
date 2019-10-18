@@ -29,3 +29,6 @@ REST API for a system that assigns students to classes
 - Factory Design Pattern implemented by Springboot
 - Singleton Design Pattern implemented by Springboot
 - Model View Controller (MVC) implemented by Springboot
+
+# Deployment and derivables
+deployables dir
